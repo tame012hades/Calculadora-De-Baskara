@@ -1,0 +1,39 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Calculadora</h1>
+  <h2>Calculando Bhaskara</h2>
+
+  <form id="Formulario">
+    <label>A:
+      <input id="a" type="number">
+    </label>
+    <label>B:
+      <input id="b" type="number">
+    </label>
+    <label >C:
+      <input id="c" type="number">
+    </label>
+
+    <button type="submit">Enviar</button>
+  </form>
+  <p id="delta">Δ</p>
+  <p id="x1">x1</p>
+  <p id="x2">x2</p>
+</body>
+</html>
+
+p{
+  background-color: rgb(179, 25, 128);
+  border-radius: 10px;
+}
+body{
+  background-color: aliceblue;
+}
+input{
+  background-color: rgb(25, 110, 179);
+}
