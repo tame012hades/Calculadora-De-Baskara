@@ -26,14 +26,3 @@
   <p id="x2">x2</p>
 </body>
 </html>
-
-p{
-  background-color: rgb(179, 25, 128);
-  border-radius: 10px;
-}
-body{
-  background-color: aliceblue;
-}
-input{
-  background-color: rgb(25, 110, 179);
-}
